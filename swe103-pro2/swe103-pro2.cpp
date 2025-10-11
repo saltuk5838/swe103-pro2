@@ -1,8 +1,8 @@
 ﻿
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Hello ,SW103!\n";
+    cout << "Hello ,SW103!\n";
 	return 0;	
 }
